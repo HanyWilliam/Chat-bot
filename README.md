@@ -84,7 +84,7 @@ Logs are stored in `app.log` for debugging and monitoring.
 For help, please contact:
 
 - **Mohammed**: [m.echtouki@ostfalia.de](mailto:m.echtouki@ostfalia.de)
-- **Hany**: [s.william@ostflia.de](mailto:s.william@ostflia.de)
+- **Hany**: [h.samuel@ostflia.de](mailto:h.samuel@ostflia.de)
 - **Haris**: [h.masood@ostfalia.de](mailto:h.masood@ostfalia.de)
 
 
