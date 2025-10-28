@@ -1,0 +1,41 @@
+# Ignore Python virtual environment
+venv/
+.env/
+.env.local
+
+# Ignore log files
+*.log
+app.log
+error_log_*.txt
+
+# Ignore CSV data files (if they contain sensitive or temporary data)
+sense_hat_temperature_data.csv
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local configuration files
+config.py
+settings.py
+
+# Ignore build and distribution directories
+dist/
+build/
+*.egg-info/
+
+# Ignore temporary files
+*.tmp
+*.bak
